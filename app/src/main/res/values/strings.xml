@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">小喵Player</string>
+    <string name="tab_home">首页</string>
+    <string name="tab_sources">视频源</string>
+    <string name="tab_settings">设置</string>
+    <string name="action_import_source">导入视频源</string>
+    <string name="action_add_url">添加URL</string>
+    <string name="action_play">播放</string>
+    <string name="action_search">搜索</string>
+    <string name="hint_input_url">输入视频地址 (m3u8 / mp4 / flv / 直播链接)</string>
+    <string name="hint_input_source">输入视频源名称 (如: 示例源)</string>
+    <string name="hint_source_url">输入视频源地址 (m3u / txt / 接口地址)</string>
+    <string name="source_local">本地视频源</string>
+    <string name="source_recommend">推荐源</string>
+    <string name="source_favorites">收藏</string>
+    <string name="source_history">历史记录</string>
+    <string name="empty_sources">暂无视频源，请点击右下角导入</string>
+    <string name="empty_videos">暂无视频</string>
+    <string name="no_description">暂无简介</string>
+</resources>
